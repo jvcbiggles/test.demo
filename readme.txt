@@ -1,3 +1,3 @@
 This is the readme file.
 
-Readme text will go here... 
+This is just a test of some git-hub clients.
