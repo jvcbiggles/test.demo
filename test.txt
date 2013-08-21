@@ -1,1 +1,4 @@
 This is just a test of some git-hub clients.
+
+Git-Tower:$70, Working with GitHub 
+SourceTree:Free, Working OK so far
